@@ -2,7 +2,7 @@
 
 ![Application Screenshot](public/Screenshot%202025-12-16%20203004.png)
 
-🌐 **[Voir la démo en ligne](https://dev-challenge-qualit-eau.vercel.app/)**
+🌐 **[Voir la démo en ligne](https://dev-challenge-qualite-eau.vercel.app/)**
 
 Une application web moderne pour consulter la qualité de l'eau potable en France, créée dans le cadre du **défi Dev de Yohan Dev**.
 
