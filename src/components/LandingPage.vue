@@ -5,6 +5,10 @@ import Button from './ui/Button.vue'
 const emit = defineEmits<{
   startSearch: []
 }>()
+
+const openHubeauLink = () => {
+  window.open('https://hubeau.eaufrance.fr/page/api-qualite-eau-potable', '_blank')
+}
 </script>
 
 <template>
@@ -46,7 +50,7 @@ const emit = defineEmits<{
             variant="outline"
             size="lg"
             class="text-lg px-8 py-6"
-            @click="window.open('https://hubeau.eaufrance.fr/page/api-qualite-eau-potable', '_blank')"
+            @click="openHubeauLink"
           >
             En savoir plus
           </Button>

@@ -1,5 +1,9 @@
 # 💧 Qualité de l'Eau Potable - France
 
+![Application Screenshot](public/Screenshot%202025-12-16%20203004.png)
+
+🌐 **[Voir la démo en ligne](https://dev-challenge-qualit-eau.vercel.app/)**
+
 Une application web moderne pour consulter la qualité de l'eau potable en France, créée dans le cadre du **défi Dev de Yohan Dev**.
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.5-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -9,7 +13,7 @@ Une application web moderne pour consulter la qualité de l'eau potable en Franc
 
 ## 🎯 Le Challenge
 
-**Défi proposé par [Yohan Dev](https://www.youtube.com/@YohanDev)**
+**Défi proposé par [Yohan Dev](https://www.youtube.com/@yoandevco)**
 
 Créer une application permettant aux citoyens français de consulter facilement les résultats des contrôles sanitaires de l'eau potable de leur commune en utilisant l'API Hub'Eau du gouvernement.
 

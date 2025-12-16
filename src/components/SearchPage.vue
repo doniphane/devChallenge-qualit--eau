@@ -188,7 +188,7 @@ const createChart = () => {
       if (!parameterGroups[result.libelle_parametre]) {
         parameterGroups[result.libelle_parametre] = []
       }
-      parameterGroups[result.libelle_parametre].push(result)
+      parameterGroups[result.libelle_parametre]?.push(result)
     }
   })
 
